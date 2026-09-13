@@ -39,7 +39,7 @@
   {"name": "Sergi Roberto", "position": "rb", "tier": "B", "base_price": 28000000},
   {"name": "Hugo Mallo", "position": "rb", "tier": "B", "base_price": 27500000},
   {"name": "Daniel Carvajal", "position": "rb", "tier": "B", "base_price": 27000000},
-  {"name": "Micah Richards", "position": "rb", "tier": "C", "base_price": 25000000},
+  {"name": "Micah Richards", "position": "rb", "tier": "B", "base_price": 25000000},
   {"name": "Tariq Lamptey", "position": "rb", "tier": "C", "base_price": 20000000},
   {"name": "Javier Manquillo", "position": "rb", "tier": "C", "base_price": 18000000},
   {"name": "Pascal Groß", "position": "rb", "tier": "C", "base_price": 16000000},

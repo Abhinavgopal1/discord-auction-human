@@ -33,13 +33,10 @@
   {"name": "Joaquin Correa", "position": "ST", "tier": "C", "base_price": 6500000},
   {"name": "Santiago Cazorla", "position": "ST", "tier": "C", "base_price": 6000000},
   {"name": "Sergio Garcia", "position": "ST", "tier": "C", "base_price": 5500000},
-  {"name": "Joselu Mato", "position": "ST", "tier": "C", "base_price": 5000000},
   {"name": "Luka Jovic", "position": "ST", "tier": "C", "base_price": 4500000},
   {"name": "Raul De Tomas", "position": "ST", "tier": "C", "base_price": 4000000},
   {"name": "Alvaro Vazquez", "position": "ST", "tier": "C", "base_price": 3500000},
   {"name": "Nando", "position": "ST", "tier": "C", "base_price": 3000000},
   {"name": "Borja Baston", "position": "ST", "tier": "C", "base_price": 2500000},
-  {"name": "Jaime Mata", "position": "ST", "tier": "C", "base_price": 2000000},
-  {"name": "Jonathan Soriano", "position": "ST", "tier": "C", "base_price": 1500000},
   {"name": "Samu Castillejo", "position": "ST", "tier": "C", "base_price": 1000000}
 ]

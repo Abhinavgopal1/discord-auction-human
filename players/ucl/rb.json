@@ -15,14 +15,12 @@
   {"name": "Antonio Valencia", "position": "rb", "tier": "A", "base_price": 40000000},
   {"name": "Nelson Semedo", "position": "rb", "tier": "A", "base_price": 40000000},
   {"name": "Rafael da Silva", "position": "rb", "tier": "A", "base_price": 40000000},
-
   {"name": "Daryl Janmaat", "position": "rb", "tier": "B", "base_price": 39000000},
   {"name": "Kieran Trippier", "position": "rb", "tier": "B", "base_price": 38000000},
   {"name": "Stephan Lichtsteiner", "position": "rb", "tier": "B", "base_price": 37000000},
   {"name": "Mattia De Sciglio", "position": "rb", "tier": "B", "base_price": 36000000},
   {"name": "Danilo", "position": "rb", "tier": "B", "base_price": 35000000},
   {"name": "Héctor Bellerín", "position": "rb", "tier": "B", "base_price": 34000000},
-  {"name": "Kyle Walker", "position": "rb", "tier": "B", "base_price": 33000000},
   {"name": "Aaron Wan-Bissaka", "position": "rb", "tier": "B", "base_price": 32000000},
   {"name": "Matteo Darmian", "position": "rb", "tier": "B", "base_price": 31000000},
   {"name": "Lorenzo De Silvestri", "position": "rb", "tier": "B", "base_price": 30000000},
@@ -36,7 +34,6 @@
   {"name": "João Cancelo", "position": "rb", "tier": "B", "base_price": 25000000},
   {"name": "Sime Vrsaljko", "position": "rb", "tier": "B", "base_price": 25000000},
   {"name": "Aleix Vidal", "position": "rb", "tier": "B", "base_price": 25000000},
-
   {"name": "Serge Aurier", "position": "rb", "tier": "C", "base_price": 24000000},
   {"name": "Mario Fernandes", "position": "rb", "tier": "C", "base_price": 23000000},
   {"name": "Timothy Fosu-Mensah", "position": "rb", "tier": "C", "base_price": 22000000},

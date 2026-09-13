@@ -26,20 +26,15 @@
   {"name": "Sergio Rico", "position": "GK", "tier": "C", "base_price": 10000000},
   {"name": "Andriy Pyatov", "position": "GK", "tier": "C", "base_price": 9500000},
   {"name": "Kepa Arrizabalaga", "position": "GK", "tier": "C", "base_price": 9000000},
-  {"name": "Jose Manuel Pinto", "position": "GK", "tier": "C", "base_price": 8500000},
   {"name": "Roberto Santillan", "position": "GK", "tier": "C", "base_price": 8000000},
   {"name": "Agustin Marchesin", "position": "GK", "tier": "C", "base_price": 7500000},
-  {"name": "Sergio Asenjo", "position": "GK", "tier": "C", "base_price": 7000000},
   {"name": "Adrián Ortolá", "position": "GK", "tier": "C", "base_price": 6500000},
   {"name": "Mario Fernandez", "position": "GK", "tier": "C", "base_price": 6000000},
   {"name": "Carlos Kameni", "position": "GK", "tier": "C", "base_price": 5500000},
   {"name": "Antonio Adán", "position": "GK", "tier": "C", "base_price": 5000000},
   {"name": "Alberto Garcia", "position": "GK", "tier": "C", "base_price": 4500000},
-  {"name": "Sergio Rico", "position": "GK", "tier": "C", "base_price": 4000000},
   {"name": "Rubén Martinez", "position": "GK", "tier": "C", "base_price": 3500000},
   {"name": "Leandro Chichizola", "position": "GK", "tier": "C", "base_price": 3000000},
-  {"name": "Juan Carlos", "position": "GK", "tier": "C", "base_price": 2500000},
   {"name": "Cristian Álvarez", "position": "GK", "tier": "C", "base_price": 2000000},
-  {"name": "Salvador Agra", "position": "GK", "tier": "C", "base_price": 1500000},
-  {"name": "Carlos Kameni", "position": "GK", "tier": "C", "base_price": 1000000}
+  {"name": "Salvador Agra", "position": "GK", "tier": "C", "base_price": 1500000}
 ]

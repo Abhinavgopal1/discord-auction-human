@@ -1,0 +1,25 @@
+# Send only the runtime files to the builder. This excludes local environments,
+# Git metadata, caches, documentation, tests, secrets, and saved manager data.
+**
+!requirements.txt
+!auction_engine.py
+!bot.py
+!classic_modes.py
+!game_engine.py
+!game_modes.py
+!keep_alive.py
+!storage.py
+!players/
+!players/**
+
+# Also exclude these if they are accidentally placed under players/.
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+**/secrets/
+**/.git/
+**/.venv/
+**/__pycache__/
+**/.ruff_cache/
+**/data/

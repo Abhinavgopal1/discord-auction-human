@@ -15,12 +15,10 @@
   {"name": "Dean Ashton", "position": "ST", "tier": "B", "base_price": 32500000},
   {"name": "Marcus Bent", "position": "ST", "tier": "B", "base_price": 32000000},
   {"name": "Kevin Phillips", "position": "ST", "tier": "B", "base_price": 31500000},
-  {"name": "Niko Kranjčar", "position": "ST", "tier": "C", "base_price": 20000000},
   {"name": "Gabriel Agbonlahor", "position": "ST", "tier": "C", "base_price": 19500000},
   {"name": "Mido", "position": "ST", "tier": "C", "base_price": 19000000},
   {"name": "Anthony Le Tallec", "position": "ST", "tier": "C", "base_price": 18500000},
   {"name": "Freddie Sears", "position": "ST", "tier": "C", "base_price": 18000000},
-  {"name": "Niko Kranjčar", "position": "ST", "tier": "C", "base_price": 17500000},
   {"name": "Adam Johnson", "position": "ST", "tier": "C", "base_price": 17000000},
   {"name": "Leon Best", "position": "ST", "tier": "C", "base_price": 16500000},
   {"name": "Geoff Thomas", "position": "ST", "tier": "C", "base_price": 16000000},
@@ -35,7 +33,6 @@
   {"name": "Michael Owen", "position": "ST", "tier": "C", "base_price": 11500000},
   {"name": "Leon McKenzie", "position": "ST", "tier": "C", "base_price": 11000000},
   {"name": "Shola Ameobi", "position": "ST", "tier": "C", "base_price": 10500000},
-  {"name": "Louis Saha", "position": "ST", "tier": "C", "base_price": 10000000},
   {"name": "David Nugent", "position": "ST", "tier": "C", "base_price": 9500000},
   {"name": "Paul Dickov", "position": "ST", "tier": "C", "base_price": 9000000},
   {"name": "Darren Ambrose", "position": "ST", "tier": "C", "base_price": 8500000},
@@ -44,6 +41,5 @@
   {"name": "Clint Hill", "position": "ST", "tier": "C", "base_price": 7000000},
   {"name": "Kevin Davies", "position": "ST", "tier": "C", "base_price": 6500000},
   {"name": "Gary Hooper", "position": "ST", "tier": "C", "base_price": 6000000},
-  {"name": "Marvin Sordell", "position": "ST", "tier": "C", "base_price": 5500000},
-  {"name": "Jermain Defoe", "position": "ST", "tier": "C", "base_price": 5000000}
+  {"name": "Marvin Sordell", "position": "ST", "tier": "C", "base_price": 5500000}
 ]

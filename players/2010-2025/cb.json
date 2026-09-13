@@ -40,7 +40,7 @@
   {"name": "Ezequiel Garay", "position": "cb", "tier": "B", "base_price": 27000000},
   {"name": "Stefan de Vrij", "position": "cb", "tier": "B", "base_price": 28000000},
   {"name": "Yerry Mina", "position": "cb", "tier": "B", "base_price": 29000000},
-  {"name": "Michael Keane", "position": "cb", "tier": "C", "base_price": 25000000},
+  {"name": "Michael Keane", "position": "cb", "tier": "B", "base_price": 25000000},
   {"name": "Phil Jagielka", "position": "cb", "tier": "C", "base_price": 20000000},
   {"name": "Gary Cahill", "position": "cb", "tier": "C", "base_price": 18000000},
   {"name": "Ashley Williams", "position": "cb", "tier": "C", "base_price": 15000000},

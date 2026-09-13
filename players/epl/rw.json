@@ -13,7 +13,6 @@
   {"name": "Joe Cole", "position": "RW", "tier": "B", "base_price": 32500000},
   {"name": "Jermaine Pennant", "position": "RW", "tier": "B", "base_price": 32000000},
   {"name": "Phil Neville", "position": "RW", "tier": "B", "base_price": 31500000},
-  {"name": "Niko Kranjčar", "position": "RW", "tier": "B", "base_price": 31000000},
   {"name": "Freddie Ljungberg", "position": "RW", "tier": "B", "base_price": 30500000},
   {"name": "Nicklas Bendtner", "position": "RW", "tier": "C", "base_price": 20000000},
   {"name": "Mark Viduka", "position": "RW", "tier": "C", "base_price": 19500000},
@@ -31,7 +30,6 @@
   {"name": "Ander Herrera", "position": "RW", "tier": "C", "base_price": 13500000},
   {"name": "Jay Bothroyd", "position": "RW", "tier": "C", "base_price": 13000000},
   {"name": "Jay Spearing", "position": "RW", "tier": "C", "base_price": 12500000},
-  {"name": "Niko Kranjčar", "position": "RW", "tier": "C", "base_price": 12000000},
   {"name": "Don Hutchison", "position": "RW", "tier": "C", "base_price": 11500000},
   {"name": "Mido", "position": "RW", "tier": "C", "base_price": 11000000},
   {"name": "Craig Bellamy", "position": "RW", "tier": "C", "base_price": 10500000},
@@ -44,6 +42,5 @@
   {"name": "Steven Caulker", "position": "RW", "tier": "C", "base_price": 7000000},
   {"name": "Jon Walters", "position": "RW", "tier": "C", "base_price": 6500000},
   {"name": "Ryan Babel", "position": "RW", "tier": "C", "base_price": 6000000},
-  {"name": "Andros Townsend", "position": "RW", "tier": "C", "base_price": 5500000},
   {"name": "Lassana Diarra", "position": "RW", "tier": "C", "base_price": 5000000}
 ]

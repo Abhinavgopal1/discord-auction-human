@@ -40,9 +40,9 @@
   {"name": "Suso", "position": "CAM", "tier": "C", "base_price": 2000000},
   {"name": "Roque Mesa", "position": "CAM", "tier": "C", "base_price": 1500000},
   {"name": "Jose Angel Esmorís", "position": "CAM", "tier": "C", "base_price": 1000000},
-  {"name": "Santi Mina", "position": "CAM", "tier": "C", "base_price": 900000},
-  {"name": "David Timor", "position": "CAM", "tier": "C", "base_price": 800000},
-  {"name": "Juanmi", "position": "CAM", "tier": "C", "base_price": 750000},
-  {"name": "Cucho Hernández", "position": "CAM", "tier": "C", "base_price": 700000},
-  {"name": "Pablo Sarabia", "position": "CAM", "tier": "C", "base_price": 650000}
+  {"name": "Santi Mina", "position": "CAM", "tier": "C", "base_price": 1000000},
+  {"name": "David Timor", "position": "CAM", "tier": "C", "base_price": 1000000},
+  {"name": "Juanmi", "position": "CAM", "tier": "C", "base_price": 1000000},
+  {"name": "Cucho Hernández", "position": "CAM", "tier": "C", "base_price": 1000000},
+  {"name": "Pablo Sarabia", "position": "CAM", "tier": "C", "base_price": 1000000}
 ]

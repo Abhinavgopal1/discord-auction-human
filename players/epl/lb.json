@@ -34,12 +34,9 @@
   {"name": "Stephen Ward", "position": "LB", "tier": "C", "base_price": 10500000},
   {"name": "Davide Santon", "position": "LB", "tier": "C", "base_price": 10000000},
   {"name": "Neil Taylor", "position": "LB", "tier": "C", "base_price": 9500000},
-  {"name": "Kieran Gibbs", "position": "LB", "tier": "C", "base_price": 9000000},
   {"name": "Rafael", "position": "LB", "tier": "C", "base_price": 8500000},
   {"name": "Gilberto", "position": "LB", "tier": "C", "base_price": 8000000},
   {"name": "Brad Smith", "position": "LB", "tier": "C", "base_price": 7500000},
   {"name": "Craig Dawson", "position": "LB", "tier": "C", "base_price": 7000000},
-  {"name": "Andrew Taylor", "position": "LB", "tier": "C", "base_price": 6500000},
-  {"name": "Stephen Ward", "position": "LB", "tier": "C", "base_price": 6000000},
-  {"name": "Matt Lowton", "position": "LB", "tier": "C", "base_price": 5500000}
+  {"name": "Andrew Taylor", "position": "LB", "tier": "C", "base_price": 6500000}
 ]

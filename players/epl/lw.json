@@ -4,10 +4,10 @@
   {"name": "Theo Walcott", "position": "LW", "tier": "A", "base_price": 49000000},
   {"name": "Ashley Cole", "position": "LW", "tier": "A", "base_price": 48500000},
   {"name": "Trevor Sinclair", "position": "LW", "tier": "A", "base_price": 48000000},
-  {"name": "Coutinho", "position": "LW", "tier": "A", "base_price":40000000},
-  {"name": "Sadio Mane", "position": "LW", "tier": "A", "base_price":40000000},
+  {"name": "Coutinho", "position": "LW", "tier": "A", "base_price": 40000000},
+  {"name": "Sadio Mane", "position": "LW", "tier": "A", "base_price": 40000000},
   {"name": "Robert Pires", "position": "LW", "tier": "A", "base_price": 47500000},
-  {"name": "Eden Hazard", "position": "LW", "tier": "A", "base_price":40000000},
+  {"name": "Eden Hazard", "position": "LW", "tier": "A", "base_price": 40000000},
   {"name": "Gerard Deulofeu", "position": "LW", "tier": "B", "base_price": 35000000},
   {"name": "Son Heung-min", "position": "LW", "tier": "B", "base_price": 34500000},
   {"name": "Cristiano Ronaldo", "position": "LW", "tier": "B", "base_price": 34000000},
@@ -46,6 +46,5 @@
   {"name": "Juan Mata", "position": "LW", "tier": "C", "base_price": 7000000},
   {"name": "Jay Bothroyd", "position": "LW", "tier": "C", "base_price": 6500000},
   {"name": "Michael Bridges", "position": "LW", "tier": "C", "base_price": 6000000},
-  {"name": "Ravel Morrison", "position": "LW", "tier": "C", "base_price": 5500000},
-  {"name": "Andros Townsend", "position": "LW", "tier": "C", "base_price": 5000000}
+  {"name": "Ravel Morrison", "position": "LW", "tier": "C", "base_price": 5500000}
 ]

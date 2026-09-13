@@ -26,7 +26,6 @@
   {"name": "Vito Mannone", "position": "GK", "tier": "C", "base_price": 15500000},
   {"name": "Kamil Grabara", "position": "GK", "tier": "C", "base_price": 15000000},
   {"name": "Rob Elliot", "position": "GK", "tier": "C", "base_price": 14500000},
-  {"name": "Brad Guzan", "position": "GK", "tier": "C", "base_price": 14000000},
   {"name": "Alex Smithies", "position": "GK", "tier": "C", "base_price": 13500000},
   {"name": "Mark Bunn", "position": "GK", "tier": "C", "base_price": 13000000},
   {"name": "Loris Karius", "position": "GK", "tier": "C", "base_price": 12500000},
@@ -39,10 +38,6 @@
   {"name": "Stefan Frei", "position": "GK", "tier": "C", "base_price": 9000000},
   {"name": "Karl Darlow", "position": "GK", "tier": "C", "base_price": 8500000},
   {"name": "Lee Camp", "position": "GK", "tier": "C", "base_price": 8000000},
-  {"name": "David Stockdale", "position": "GK", "tier": "C", "base_price": 7500000},
   {"name": "Craig Gordon", "position": "GK", "tier": "C", "base_price": 7000000},
-  {"name": "Simon Mignolet", "position": "GK", "tier": "C", "base_price": 6500000},
-  {"name": "Mark Schwarzer", "position": "GK", "tier": "C", "base_price": 6000000},
-  {"name": "Brad Friedel", "position": "GK", "tier": "C", "base_price": 5500000},
   {"name": "Matt Murray", "position": "GK", "tier": "C", "base_price": 5000000}
 ]

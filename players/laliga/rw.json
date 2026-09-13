@@ -1,5 +1,5 @@
 [
-  {"name": "Lionel Messi", "position": "LW", "tier": "A", "base_price": 50000000},
+  {"name": "Lionel Messi", "position": "RW", "tier": "A", "base_price": 50000000},
   {"name": "Gareth Bale", "position": "RW", "tier": "A", "base_price": 49500000},
   {"name": "Luis Figo", "position": "RW", "tier": "A", "base_price": 49000000},
   {"name": "Joseba Llorente", "position": "RW", "tier": "A", "base_price": 48500000},
