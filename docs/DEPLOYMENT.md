@@ -18,6 +18,24 @@ Configure restart-on-failure and keep the worker running continuously.
 
 ## Environment and storage
 
+### Render free web service
+
+For a free Render deployment, create a **Web Service** from this repository's
+`main` branch, select **Docker** and **Free**, and use the root `Dockerfile`.
+Set `DISCORD_BOT_TOKEN` privately and override `ENABLE_KEEP_ALIVE` to `true`.
+Set the health check path to `/`. The HTTP endpoint binds to Render's `PORT`
+(default `10000`); the Docker command starts the Discord bot alongside it.
+Check the logs for `Connected as ...` to verify the Discord login.
+
+Render's free web service sleeps after 15 minutes without inbound traffic.
+Discord commands cannot wake a sleeping service; visit its public web URL
+and allow it to start before playing. Free instances have no persistent disk:
+saved squads, balances, and statistics in `/data` can be lost on a restart,
+redeploy, or spin-down. Treat this configuration as a temporary demo.
+See [Render's free service limits](https://render.com/docs/free).
+
+### Always-running worker with persistent storage
+
 Set these in the host's runtime settings:
 
 | Setting | Value |
